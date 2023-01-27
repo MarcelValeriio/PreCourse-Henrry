@@ -1,2 +1,3 @@
-# PreCourse-Henrry
-ste es un repositorio de prueba del modulo 2 del preCourse de Henrry
+Marcel Carrillo
+
+este proyecto es una prueba de como crear un repositorio
